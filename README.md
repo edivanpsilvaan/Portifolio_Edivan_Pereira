@@ -9,7 +9,7 @@ Portfólio feito em HTML, CSS, JS, PHP e Bootstrap
 Criar um Portfólio para divulgar meus trabalhos sobre BI, Dados e Programação
 
 ## Site
-[Clique aqui para acessar o Portfólio](https://github.com/edivanpsilvaan/Portifolio_Edivan_Pereira)
+[Clique aqui para acessar o Portfólio](https://edivanpsilvaan.github.io/Portifolio_Edivan_Pereira/)
 
 ## Ferramentas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,5 +46,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para d
 ## Conecte-se Comigo
 
 <a href = "https://learn.microsoft.com/api/credentials/share/pt-br/EdivanPereiradaSilva-9571/388E1BC1A3799E19?sharingId=B27CFDA21A98C865/"><img src="https://www.glasspaper.no/globalassets/it-pro-kategori-sider/microsoft/microsoft-certified-associate-600x600.png?width=1600&quality=60" style="width: 100px; height: auto;"></a>
-<a href = "https://www.linkedin.com/in/eduardo-pedrosap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/edivan-pereira-da-silva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
