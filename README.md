@@ -1,5 +1,5 @@
 <h1>
-    <span> Portfólio Eduardo Pedrosa </span>
+    <span> Portfólio Edivan Pereira </span>
 </h1>
 
 Portfólio feito em HTML, CSS, JS, PHP e Bootstrap
@@ -9,7 +9,7 @@ Portfólio feito em HTML, CSS, JS, PHP e Bootstrap
 Criar um Portfólio para divulgar meus trabalhos sobre BI, Dados e Programação
 
 ## Site
-[Clique aqui para acessar o Portfólio](https://eduardoppereira.github.io/Portfolio_Eduardo_Pedrosa/)
+[Clique aqui para acessar o Portfólio](https://github.com/edivanpsilvaan/Portifolio_Edivan_Pereira)
 
 ## Ferramentas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,14 +26,14 @@ Criar um Portfólio para divulgar meus trabalhos sobre BI, Dados e Programação
 <table>
   <tr>
     <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/Eduardoppereira"/>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/edivanpsilvaan"/>
     </td>
     <td align="left">
-      <a href="https://github.com/Eduardoppereira">
-        <span><b>Eduardo Pedrosa</b></span>
+      <a href="https://github.com/edivanpsilvaan">
+        <span><b>Edivan Pereira</b></span>
       </a>
       <br>
-      <span>Data Analyst</span>
+      <span>Power BI Data Analystc Associate</span>
     </td>
   </tr>
 </table>
@@ -45,8 +45,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para d
 
 ## Conecte-se Comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/eduardopedrosap)
-<a href = "https://www.instagram.com/eduardo_01511/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "https://learn.microsoft.com/api/credentials/share/pt-br/EdivanPereiradaSilva-9571/388E1BC1A3799E19?sharingId=B27CFDA21A98C865/"><img src="https://www.glasspaper.no/globalassets/it-pro-kategori-sider/microsoft/microsoft-certified-associate-600x600.png?width=1600&quality=60" style="width: 100px; height: auto;"></a>
 <a href = "https://www.linkedin.com/in/eduardo-pedrosap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "https://medium.com/@eduardopedrosap"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)"></a>
-<a href = "https://www.behance.net/eduardopedrosa1/"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
+
